@@ -1,2 +1,3 @@
-# rock-papper-scissors
-Rock papper scissors project as part of The Odin Project
+# rock-paper-scissors
+Rock paper scissors project as part of The Odin Project
+Plays in console
